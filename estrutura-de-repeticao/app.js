@@ -1,0 +1,1 @@
+const listaDeArgumentos = process.argv.slice(2);
