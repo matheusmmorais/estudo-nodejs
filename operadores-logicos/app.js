@@ -20,10 +20,13 @@ readLine.question("qual o ano do seu nascimento: ", ano => {
                    switch(nome){
                         case 'douglas':
                            console.log("bem vindo ao kart Douglas");
+                           break;
                         case 'rafael':
                             console.log("bem vindo ao kart Rafael");
+                            break;
                         default: 
                             console.log("Usuario não identificado");
+                            break;
                    }
                })
 
